@@ -18,7 +18,7 @@ Frontend: React / Material UI
 
 📦 Installation
 
-git clone https://github.com/dein-nutzername/zp-finder.git
+git clone https://github.com/DenisDeveloperJS/zp-finder.git
 cd zp-finder
 npm install
 npm run dev
